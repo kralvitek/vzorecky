@@ -6,6 +6,6 @@ r = int(r)
 
 if r>0:
     print("výsledek je:")
-    print(r*2*π)
+    print(r*r*3.14)
 else:
     print("copak to děláš blbečku takhle to nefunguje")
